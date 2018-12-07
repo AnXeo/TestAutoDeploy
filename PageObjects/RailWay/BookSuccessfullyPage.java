@@ -15,6 +15,10 @@ public class BookSuccessfullyPage extends GeneralPage{
 		return Constant.WEBDRIVER.findElement(lblBookSuccessMsg);
 	}
 	
+	protected WebElement Antetst() {
+		return Constant.WEBDRIVER.findElement(lblBookSuccessMsg);
+	}
+	
 	//Methods
 
 }
