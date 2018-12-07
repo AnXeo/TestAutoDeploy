@@ -18,8 +18,11 @@ public class BookSuccessfullyPage extends GeneralPage{
 	protected WebElement Antetst() {
 		return Constant.WEBDRIVER.findElement(lblBookSuccessMsg);
 	}
-	
-	
+	protected WebElement Antetst() {
+		return Constant.WEBDRIVER.findElement(lblBookSuccessMsg);
+		protected WebElement Antetst() {
+			return Constant.WEBDRIVER.findElement(lblBookSuccessMsg);
+		}	
 	protected WebElement wdsdsfsd() {
 		return Constant.WEBDRIVER.findElement(lblBookSuccessMsg);
 	}
